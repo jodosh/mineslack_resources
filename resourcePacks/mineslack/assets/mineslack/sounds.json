@@ -1,0 +1,12 @@
+{
+    "testing": {
+      "sounds": [
+        "mineslack:PoopOnJodosh"
+      ]
+    },
+    "example.sound.name_2": {
+      "sounds": [
+        "whatever/path/example_2"
+      ]
+    }
+  }
